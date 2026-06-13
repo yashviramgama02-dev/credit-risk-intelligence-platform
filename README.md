@@ -22,7 +22,9 @@ This platform:
 
 ## 🚀 Live Demo
 
-[Credit Risk Intelligence Platform](#)
+## 🚀 Live Demo
+
+[Credit Risk Intelligence Platform](https://credit-risk-intelligence-platform-mkz9q95iwewy5o2hiaemje.streamlit.app)
 
 ---
 
