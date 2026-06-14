@@ -63,8 +63,6 @@ The dataset contains borrower information such as:
 - Credit History Length
 - Previous Default on File
 
-The dataset is not included in this repository due to licensing and repository size considerations.
-
 ---
 
 ## ⚙️ Feature Engineering
@@ -263,6 +261,8 @@ Interested in:
 
 - Data Science
 - Machine Learning
+- AI-agents
+- Chatbot
 - Analytics
 - AI-Powered Business Solutions
 
